@@ -10,11 +10,15 @@ This project uses Terraform (Infrastructure as Code) to deploy an AWS EKS cluste
 
 ## 📦 Features
 
-✅ Creates an EKS Cluster with worker node groups
-✅ Automatically configures VPC, subnets, and security groups
-✅ IAM roles and policies provisioned for EKS and nodes
-✅ Scalable configuration ready for development and production use
-✅ Fully infrastructure-as-code approach with Terraform
+✅ Creates an EKS Cluster with worker node groups.
+
+✅ Automatically configures VPC, subnets, and security groups.
+
+✅ IAM roles and policies provisioned for EKS and nodes.
+
+✅ Scalable configuration ready for development and production use.
+
+✅ Fully infrastructure-as-code approach with Terraform.
 
 ## Technologies
 - Terraform
